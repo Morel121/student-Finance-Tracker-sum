@@ -1,0 +1,75 @@
+[
+    {
+        "id": "r1",
+        "desciption": "Campus lunch",
+        "amount": 5.50,
+        "category":"Food",
+        "date":"2024-06-10",
+        "createdAt":"2024-06-10T12:00:00Z",
+        "updateAt": "2024-06-10T12:00.00Z"
+    },
+    {
+        "id": "r2",
+        "desciption": "Textbook purchase",
+        "amount": "45.00",
+        "category": "Books",
+        "date": "2024-06-12",
+        "createdAt":"2024-06-10T12:00:00Z",
+        "updateAt":"2024-06-10T12:00.00Z"
+    },
+    {
+        "id":"r3",
+        "desciption":"Bus pass",
+        "amount":"24.75",
+        "category":"Transport",
+        "date":"2024-06-15",
+        "createdAt":"2024-06-10T12:00:00Z",
+        "updateAt":"2024-06-10T12:00.00Z"
+    },
+    {
+        "id": "r4",
+        "desciption":"movie night",
+        "amount": 15.00,
+        "category": "Entertainment",
+        "date": "2024-06-18",
+        "createdAt":"2024-06-10T12:00:00Z",
+        "updateAt":"2024-06-10T12:00.00Z"
+    },
+    {
+        "id":"r5",
+        "desciption":"semester fees",
+        "amount": 125.00,
+        "category":"Other",
+        "date":"2024-06-18",
+        "createdAt":"2024-06-10T12:00:00Z",
+        "updateAt":"2024-06-10T12:00.00Z"
+
+    },
+    {
+        "id":"r6",
+        "desciption": "coffee",
+        "amount": 3.50,
+        "category":"Food",
+        "date":"2024-06-20",
+        "createdAt":"2024-06-10T12:00:00Z",
+        "updateAt":"2024-06-10T12:00.00Z"
+    },
+    {
+        "id":"r7",
+        "desciption": "snack",
+        "amount": 2.75,
+        "category": "Food",
+        "date":"2024-06-25",
+        "createdAt":"2024-06-10T12:00:00Z",
+        "updateAt":"2024-06-10T12:00.00Z"
+    },
+    {
+        "id":"r8",
+        "desciption":"library fine",
+        "amount": 5.00,
+        "category":"Other",
+        "date":"2024-06-22",
+        "createdAt":"2024-06-10T12:00:00Z",
+        "updateAt":"2024-06-10T12:00.00Z"
+    }
+]
